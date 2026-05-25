@@ -24,5 +24,4 @@
 - **[C](./c/)** — основы C.
 
 ## Контакты
-- Email: -
-- Telegram: -
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)
