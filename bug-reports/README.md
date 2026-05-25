@@ -19,4 +19,4 @@
 **Окружение:** Win 11, Google Chrome Версия 145.0.7632.160 (64 бит)
 
 **Вложение**:
-    <img width="1893" height="904" alt="image" src="https://github.com/user-attachments/assets/bc36ca69-6655-4af7-9a5c-df69aac485e6" />
+<img width="1893" height="904" alt="image" src="https://github.com/user-attachments/assets/09664cff-24da-44d2-8336-38cf2c934c0c" />
