@@ -25,4 +25,4 @@
 - **[C](./c/)** — основы C.
 
 ## Контакты
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)]([#](https://t.me/a_mxi))
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/a_mxi)
