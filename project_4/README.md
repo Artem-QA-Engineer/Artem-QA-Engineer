@@ -1,6 +1,6 @@
 # Автотесты для формы логина: Java, Selenide, JUnit 5
 
-Проект по автоматизации UI-тестов
+Проект по [автоматизации UI-тестов](./login-autotests/src/test/java/LoginTest.java)
 
 ## Что тестируется:
 
