@@ -6,7 +6,7 @@
 ## Навыки и инструменты
 - Тест-дизайн: классы эквивалентности, граничные значения
 - Документация: чек-листы, тест-кейсы, баг-репорты, тест-план
-- Инструменты: Selenide, JUnit 5, Maven, GitLab, GitHub, Postman, Charles Proxy, DevTools, Android Studio, VS Code, InteliJ IDEA, PyCharm, pgAdmin, Jira, Яндекс Трекер
+- Инструменты: Selenide, JUnit 5, Maven, GitLab, GitHub, Postman, Charles Proxy, DevTools, Android Studio, VS Code, IntelliJ IDEA, PyCharm, pgAdmin, Jira, Яндекс Трекер
 - Языки программирования: основы SQL, Java, Python, C, Bash
 - Дополнительно: понимание клиент-серверной архитектуры, REST API
 
