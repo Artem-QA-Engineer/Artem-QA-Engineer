@@ -5,9 +5,9 @@
 ## Что было сделано:
 
 - Проведено ручное тестирование формы заявки
-- Составлен [чек-лист](./p1_checklist/checklist.md) из 45 проверок
-- Написаны [тест-кейсы](./p1_test-cases/test-cases.md) (9 штук)
-- Оформлены [баг-репорты](./p1_bug-reports/bug-reports.md) (4 штуки)
+- Составлен [чек-лист](./p1_checklist/checklist.md)
+- Написаны [тест-кейсы](./p1_test-cases/test-cases.md)
+- Оформлены [баг-репорты](./p1_bug-reports/bug-reports.md)
 
 ## Результат:
 
